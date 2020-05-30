@@ -1,0 +1,14 @@
+{
+  "name": "githubusers",
+  "version": "1.0.0",
+  "description": "fetch gitHub userName and repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
